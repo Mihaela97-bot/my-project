@@ -1,0 +1,23 @@
+﻿Lozinke admina i korisnika:
+
+ADMIN
+Korisničko ime: Admin
+Lozinka: admin
+
+KORISNICI
+Korisničko ime: Zaposlenik1
+Lozinka: 1111
+
+Korisničko ime: Zaposlenik2
+Lozinka: 2222
+
+Korisničko ime: Zaposlenik3
+Lozinka: 3333
+
+Korisničko ime: Zaposlenik4
+Lozinka: 4444
+
+Korisničko ime: Zaposlenik5
+Lozinka: 5555
+
+
